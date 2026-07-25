@@ -33,5 +33,7 @@ Ceren->654321->1234->6000 TL
 These accounts are only for testing.
 # Examples
 ![ATM System Screenshot](atm-screenshot.png)
+
 ![ATM System Screenshot](atm-screenshot2.png)
+
 ![ATM System Screenshot](atm-screenshot3.png)
