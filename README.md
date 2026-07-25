@@ -27,6 +27,7 @@ The purpose of this project is to practice Java programming concepts such as:
 - Java Swing (planned for future development)
 # Account Information
 The project currently contains two sample accounts:
+
 User->Card Number->PIN->Balance
 Meryem->123456->8765->2000 TL
 Ceren->654321->1234->6000 TL
